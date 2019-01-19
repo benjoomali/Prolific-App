@@ -1,0 +1,15 @@
+{
+  "name": "prolificapp",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "coffeescript": "1.12.7",
+    "vue": "^2.5.21",
+    "vue-loader": "14.2.2",
+    "vue-template-compiler": "^2.5.21",
+    "vuedraggable": "^2.17.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
